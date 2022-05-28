@@ -1,0 +1,5 @@
+.vs/
+*.zip
+/glad/
+/glfw/
+x64/
