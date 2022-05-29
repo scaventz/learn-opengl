@@ -1,3 +1,5 @@
+Code from learnopengl.com
+
 # setup  
 1. After clone this repo, open it with `Microsoft Visual Studio Community 2022 (64-bit) - Current`  
 2. Change Solution Platform from x86 to x64  
